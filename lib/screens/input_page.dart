@@ -21,7 +21,7 @@ class InputPage extends StatelessWidget {
 
     return Scaffold(
         appBar: AppBar(
-          title: Text('BMI CALCULATOR'),
+          title: Text('KIKDE BMI CALCULATOR'),
         ),
         body: Column(
           mainAxisAlignment: MainAxisAlignment.center,
